@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "name": "simple app",
+  "version": "0.0.1",
+  "author": "Dimitry995",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nanoid": "^3.3.6",
+    "nodemon": "^2.0.22",
+    "yargs": "^17.7.1"
+  }
+}
